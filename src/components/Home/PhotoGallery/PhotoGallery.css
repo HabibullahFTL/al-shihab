@@ -1,0 +1,10 @@
+.gallery-item{
+    background: #e7e5e5;
+    box-shadow: 0 0 5px #d6d3d3;
+}
+.gallery-item .caption{
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

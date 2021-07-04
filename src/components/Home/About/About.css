@@ -1,0 +1,15 @@
+.title{
+    position: relative;
+}
+.title::after{
+    content: "";
+    width: 100px;
+    border-bottom: 3px solid #FFC107;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.about-img{
+    width: 350px;
+}
